@@ -1,3 +1,3 @@
 # KiCAD-LC-Lib
 
-KiCAD components and footprint libraries created by me
+KiCAD components and footprints libraries created by me
